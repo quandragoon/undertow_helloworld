@@ -1,0 +1,3 @@
+# Static service config
+port: 6667
+keyStoreFile: /tmp/keystore.jks
